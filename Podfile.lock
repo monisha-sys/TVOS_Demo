@@ -1,0 +1,31 @@
+PODS:
+  - BitmovinPlayer (2.42.0)
+  - Kingfisher (5.15.8):
+    - Kingfisher/Core (= 5.15.8)
+  - Kingfisher/Core (5.15.8)
+
+DEPENDENCIES:
+  - BitmovinPlayer (from `https://github.com/bitmovin/bitmovin-player-ios-sdk-cocoapod.git`, tag `2.42.0`)
+  - Kingfisher (~> 5.15.7)
+
+SPEC REPOS:
+  trunk:
+    - Kingfisher
+
+EXTERNAL SOURCES:
+  BitmovinPlayer:
+    :git: https://github.com/bitmovin/bitmovin-player-ios-sdk-cocoapod.git
+    :tag: 2.42.0
+
+CHECKOUT OPTIONS:
+  BitmovinPlayer:
+    :git: https://github.com/bitmovin/bitmovin-player-ios-sdk-cocoapod.git
+    :tag: 2.42.0
+
+SPEC CHECKSUMS:
+  BitmovinPlayer: aede7cc3108495046682d5f5227182b4c4b88581
+  Kingfisher: a3c03d702433fa6cfedabb2bddbe076fb8f2e902
+
+PODFILE CHECKSUM: ab793c42c9863a5bf75b63af3ac660fb0569b17a
+
+COCOAPODS: 1.9.3
